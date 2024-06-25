@@ -1,6 +1,6 @@
-# Case Studies
+# ML Projects
 
-This repository contains various case studies focusing on different aspects of data analysis and machine learning. Below is a table listing each case study along with a link to its respective repository.
+This repository contains various ML Projects focusing on different aspects of data analysis and machine learning. Below is a table listing each project along with a link to its respective repository.
 
 | S.No | Case Study                                                                 | Link to Repository                                 |
 |------|----------------------------------------------------------------------------|---------------------------------------------------|
@@ -10,4 +10,4 @@ This repository contains various case studies focusing on different aspects of d
 
 
 ## How to Use
-To explore a case study, click on the link in the table above. Each repository contains detailed documentation and the necessary code to reproduce the analysis.
+Click on the link in the table above. Each repository contains detailed documentation and the necessary code to reproduce the analysis.
