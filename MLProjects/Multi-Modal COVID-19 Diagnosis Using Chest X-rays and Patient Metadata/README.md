@@ -6,7 +6,7 @@ The COVID-19 pandemic has highlighted the critical need for efficient and accura
 
 #### Dataset Explanation
 
-The dataset used in this case study is sourced from the Kaggle dataset "COVIDx CXR-2" by Andy Czhao. It contains a comprehensive collection of chest X-ray images along with metadata for each patient. The dataset structure is as follows:
+The dataset used in this case study is sourced from the "https://figshare.com/articles/dataset/COVID-19_Chest_X-Ray_Image_Repository/12580328".. It contains a comprehensive collection of chest X-ray images along with metadata for each patient. The dataset structure is as follows:
 
 -   **covid_cx_dataset**
     -   **metadata.csv**: Contains patient metadata and image labels.
